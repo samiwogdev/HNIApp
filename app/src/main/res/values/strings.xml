@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrustFund</string>
+    <string-array name="role">
+        <item>Admin</item>
+        <item>Customer</item>
+    </string-array>
+</resources>

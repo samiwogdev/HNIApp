@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756760700513",
+    "firebase_url": "https://trustfund-9a73f-default-rtdb.firebaseio.com",
+    "project_id": "trustfund-9a73f",
+    "storage_bucket": "trustfund-9a73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756760700513:android:7a77d51ae82bbbbc01ec20",
+        "android_client_info": {
+          "package_name": "com.example.samiwogdev.trustfund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756760700513-og0gumc7fgadosrekv748i8vlhgtugg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAob4g2zLtzNWIMRpbiTaLmmqHwIAL0JP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756760700513-og0gumc7fgadosrekv748i8vlhgtugg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
